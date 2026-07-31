@@ -106,6 +106,8 @@ Each image is saved with a unique filename.
 # 🏷 Image Annotation
 
 The project uses **LabelImg** to annotate captured images.
+<img width="1920" height="1249" alt="Sample" src="https://github.com/user-attachments/assets/65b16187-1e03-4a96-a78f-269c2ec29249" />
+ 
 
 Install LabelImg:
 

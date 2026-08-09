@@ -250,7 +250,7 @@ git push origin feature-name
 - Mohd Umar
 - Mohd Ayan
 - Shadab Firoz
-
+Github: https://github.com/shdbfrz
 ---
 
 ## 📜 License
@@ -280,3 +280,4 @@ LinkedIn: https://linkedin.com/in/faizan-alam1457
 ---
 
 ### ⭐ If this project helped you, consider giving it a star on GitHub!
+ 
